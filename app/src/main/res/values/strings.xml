@@ -10,4 +10,17 @@
     <string name="password">Password: </string>
     <string name="login">LOGIN</string>
     <string name="cancel">CANCEL</string>
+    
+<!--    Worksheet2 Activity2-->
+    <string name="title">Registration Form</string>
+    <string name="welcomeText">Welcome to Adventure Learning Club!</string>
+    <string name="fullname">Full Name: </string>
+    <string name="gender">Gender: </string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="studentid">Student ID: </string>
+    <string name="school">School: </string>
+    <string name="email">Email: </string>
+    <string name="phone">Phone: </string>
+    <string name="register">Register</string>
 </resources>
