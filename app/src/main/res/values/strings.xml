@@ -4,4 +4,10 @@
     <string name="large">Large Text</string>
     <string name="button1">Button 1</string>
     <string name="button2">Button 2</string>
+
+<!--    Worksheet2 Activity1-->
+    <string name="name">Name: </string>
+    <string name="password">Password: </string>
+    <string name="login">LOGIN</string>
+    <string name="cancel">CANCEL</string>
 </resources>
